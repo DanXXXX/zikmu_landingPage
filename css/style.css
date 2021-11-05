@@ -1,0 +1,50 @@
+html {
+    font-size: 62.5%;
+}
+
+body * {
+	box-sizing: border-box;
+}
+
+img {
+	max-width: 100%;
+	width: auto;
+	height: auto;
+}
+
+.bigtitre{
+	font-size: 3rem;
+	color: white;
+	text-align: center;
+}
+.bleu {
+	background-color: aqua;
+	height: 100vh;
+	padding: 2rem;
+	display: flex;
+	
+
+	
+
+	
+}
+
+.containerrouge {
+	background-color: red;
+	width: 50rem;
+	margin: 2rem;
+	height: 50rem;
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: flex-start;
+
+
+}
+
+.casevert {
+	height: 80%;
+	width: 80%;
+	background-color: green;
+	margin-right: 1rem;
+	border-radius: 50rem;
+}
